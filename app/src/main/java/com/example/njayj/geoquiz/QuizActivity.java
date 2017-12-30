@@ -33,6 +33,7 @@ public class QuizActivity extends AppCompatActivity {
                 Toast.makeText(QuizActivity.this,
                         R.string.correct_toast,
                         Toast.LENGTH_SHORT).show();
+                //nothing here
             }
         });
     }
